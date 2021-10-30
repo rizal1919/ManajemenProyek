@@ -1,0 +1,154 @@
+plan scope manajement
+   collect requirements
+   define scope
+   create wbs
+   validate scope
+   control scope
+
+   plan scope management.
+   - proses membuat rencana manajemen ruang lingkup yang mendokumentasikan bagaimana proyek dan ruang lingkup produk yang akan di definisikan.
+
+   input project charter, manajamen plan
+   tools expert judgement, data analysis
+   output scope manajemen plan, requirements management plan
+
+   collect requirements.
+   - proses menentukan, mendokumentasikan kebutuhan dan persyaratan dari pemangku kepentingan untuk memenuhi tujuan.
+   - manfaat utamanya ialah menyediakan dasar untuk mendefinisikan ruang lingkup produk dan ruang lingkup
+
+   input sama, project document, agreements, enterprise environment factors,
+   tools sama, data gathering
+   output requirements document, requirements traceability matrix
+
+   define scope.
+   - proses mengembangkan deskripsi secara rinci tentang proyek dan produk.
+   -manfaat utama dari proses ini adalah menggambarkan produk layanan, atau batasan hasil dan kriteria penerimaan.
+   - ini harus jelas ya. karena jika waktu estimasi pengerjaan dan biaya nya tidak jelas, ditakutkan ada hal2 yang tidak diinginkan.
+
+      tahap define scope.
+      - menentukan cakupan proyek adalah langkah untuk mengembangkan sebuah rencana proyek.
+      - untuk menjelasakan bentuk penyampaian kepada pengguna akhir
+      - untuk fokus kepada penyelesaian target dengan sukses
+
+      elemen2 define scope.
+      - sasaran proyek (menjawab apa, kapan, dimana,dan berapa banyak)
+        :membangun rumah berkualitas tinggi, dalam lima bulan dengan biaya tidak lebih dari 150.000 dolar
+      - deliverables (menentukan hasil utama dari setiap proyek)
+        :garasi dengan rolling dor
+        :peralatan dapur dengan tungku, oven, mikrowave
+      - milestones (pencapaian; seperti jadwal2 pondasi selesai ditanggal berapa, atap selesai tanggal berapa)
+        :izin bangun 5 maret 2014
+        :Fondasi 14 maret 2014
+        :Drywall 25 mei 2014
+        :Inspeksi akhir 7 juni 2012
+      - kebutuhan teknis (memperjelas spesifikasinya)
+        :rumah memenuhi kode bangunan lokal
+        :semua pintu dan jendela lolos rating energi 40 kelas NFRC
+      - batasan dan pengecualian (menentukan limitnya di uang sekian, cukup 3 kamar aja, kalau lebih dari itu tidak bisa)
+        :rumah berdasarkan cetak biru
+        :pemilik bertanggung jawab atas lanskap
+        :lokasi pekerjaan dibatasi senin sampai jumat jam 8 pagi - 18 sore
+
+      - peninjauan ulang denagn pelanggan 
+        :Siapa? Mandornya. John dan Joan Smith
+      contoh pernyataan cakupan.
+
+      ruang lingkup proyek.
+      - cakupan proyek pada umumnya sering sebagai project charter
+      - ruang lingkup
+        : dokumen proyek yang mendefiniskan ruang linkup atau tujuan proyek
+      menetapka prioritas proyek.
+      - dinilai dari 3 hal; biaya, waktu, dan kinerja
+
+      matriks prioritas proyek.
+      - mengidentifikasi kriteria mana yang dibatasi, mana yang harus dapat dioptimalkan, dan mana yang dapat ditoleransi pengerjaaannya.
+      - 
+
+                     time     performance       cost
+
+
+      constrain                     x
+
+
+      enhance           x
+
+
+
+      accept                                       x
+
+   
+
+      constrain, parameter asli tetap. proyek harus memenuhi tanggal penyelesaian,  spefisikasi, dan ruang lingkup proyek.
+      enhance, apa yang dapat dioptimalkan? dalam hal waktu dan biaya ini biasanya berarti memanfaatkan peluang untuk mengurangi biaya atau mempersingkat jadwal. sebalikny, berkaitan dengan kinerja, meningkatkan berarti menambah nilai projeknya
+      accept, kriteria mana yang dapat ditoleransi untuk tidak memenuhi parameter asli? misal tidak sesuai jadwal, anggaran melebih batas.
+
+
+
+
+      questions.
+      - apakah matriks prioritas proyek itu juga di jelaskan dalam project charter?
+      - apa pembagian ini bisa disamaratakan kriterianya? atau harus memiliki lever yang berbeda beda. Jawaban: tidak harus tergantung proyek.
+
+   create WBS.
+   - proses membagi kiriman proyek dan pekerjaan proyek menjadi komponen yang lebih kecil dan lebih mudah dikelola
+   - manfaat utama dari proses ini adalah menyediakan kerangka kerja tentang apa yang harus disampaikan.
+
+      Work Breakdown Structure (WBS) - (pekerjaannya)
+      - wbs adalah suatu metode pengorganisasian proyek menjadi sebuah kerangka hierarki untuk dilakukan breakdown atau memecahkan tiap prosesnya.
+      - hierarki breakdown of the wbs: project,
+      - bentuknya seperti DOM TREE 
+      - bentuknya tu bagan.
+
+      pengkodean wbs untuk sistem informasi.
+      - seperti kode hierarki 1.1, 1.1.2, 1.1.1.2, 1.4.1.3, dst...
+      - biasanya untuk tujuan informasi level bagan
+
+      bagaimana WBS membantu manajer proyek.
+      - memfasilitasi evaluasi kinerja apapuun
+      - menyediakan manajemen dengan informasi yang tepat untuk masing2 tingkat organisasi
+      - membantu dalam pengembangan organisasi
+
+      Organizational Breakdown Structure (OBS) - (divisi yang mengerjakan)
+      - menyediakan kerangka kerja untuk meringkas kinerja.
+      - mengidentifikasi unit organisasinya
+      - ini tu bagian divisi yang mengerjakan zal maksudnya.
+
+      Struktur Uraian Proses.
+      - 
+      Process breakdown structure (PBS)
+      - yang dibreakdown pekerjaannya
+      - mendefinisikan hasil kerja sebagai output 
+         
+         contoh.
+
+         software Development Project.
+         level major phases: analysis, design, construct, test, rollout
+         level activities: define user interface, develop technical design, establish quality requirements, develop detail design
+         level activities: defice application architecture, define processing flow, design database, system interface.
+         outputs???? telat nyatet wjwjwj.
+
+
+      matriks tanggung jawab.
+      - yaitu merangkum tugas yang harus diselesaikan oleh siapa.
+      - daftar kegiatan dan peserta proyek.
+      - bisa orang (dave, richard, linda) atau divisi (design, architect) di bagian project team nya.
+
+         contoh.
+                    task                         project team.
+                                       richard   dave    linda     elisa
+         Identify target curtomers        R        S        S
+         Develop draft quetionnaire       R        S                 S
+         finalize questionnaire                    R        S
+         input response data                                         R  
+
+
+   validate scope.
+   - proses penerimaan projek yang lengkap dan sudah ditentukan tujuan kerjanya.
+
+   control scope.
+   - proses monitoring proyek dan cakupan produknya, juga memanajemen perubahan agar sesuai dengan dasar tujuan. 
+   - memastikan semua perubahan yang diminta, bahwa lingkup dasar itu terus dipertahankan meskipun ada perubahan.
+
+   notes.
+   - di jadikan pdf
+   - dikumpulkan hanya perwakilan saja.
